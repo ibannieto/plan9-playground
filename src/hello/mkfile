@@ -1,0 +1,11 @@
+</$objtype/mkfile
+
+BIN=/$objtype/bin
+TARG=hello
+
+OFILES=\
+        hello.$O\
+
+HFILES=\
+
+</sys/src/cmd/mkone

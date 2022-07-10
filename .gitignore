@@ -1,0 +1,5 @@
+# ISO and IMG files
+*.iso
+*.img
+*.pdf
+*.out
